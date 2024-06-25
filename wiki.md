@@ -11,9 +11,11 @@ Born in 1865, Taichiro Morinaga came from very little. He grew up without the pr
 In 1956, his company, **Morinaga & Company**, created their idea of edible gum called *Chewlets*. It came in one flavor (strawberry) and it was meant to resemble that of gum except it would slowly dissolve which meant you would not have to take it back out of your mouth to dispose of. Fast forward to 1975, *Chewlets* were rebranded to the *Hi-Chew* candy we know today.
 
 
-## See also
+### See also
 - [Hi-Chew Official Website](https://www.hi-chew.com/)
+- [About Morinaga & Company](https://www.morinaga.co.jp/company/english/about/history.html)
 
-## References
+### References
 1. https://www.hi-chew.com/pages/about-us
+
 *All information used from their official website*
